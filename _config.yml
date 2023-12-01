@@ -2,7 +2,14 @@ title: Rudy's GitHub pages
 description: These are Rudy's GitHub pages
 source: /
 markdown: GFM
+
 theme: jekyll-theme-hacker
-# theme: jekyll-theme-slate
-# theme: jekyll-theme-midnight
-# theme: jekyll-theme-cayman
+# other nice-looking themes IMHO:
+#   theme: jekyll-theme-cayman
+#   theme: jekyll-theme-hacker
+#   theme: jekyll-theme-midnight
+#   theme: jekyll-theme-slate
+# full list: https://pages.github.com/themes/
+
+github:
+  is_project_page: false # disables the "view on GitHub" button
