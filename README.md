@@ -1,4 +1,8 @@
-README.md
-=========
+rudymatela's GitHub pages
+=========================
 
-This is just an empty README.md for testing
+[rudymatela.github.io](https://rudymatela.github.io)
+
+## Useful links
+
+* [Supported Themes](https://pages.github.com/themes/)

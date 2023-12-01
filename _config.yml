@@ -1,2 +1,8 @@
+title: Rudy's GitHub pages
+description: These are Rudy's GitHub pages
 source: /
 markdown: GFM
+theme: jekyll-theme-hacker
+# theme: jekyll-theme-slate
+# theme: jekyll-theme-midnight
+# theme: jekyll-theme-cayman
